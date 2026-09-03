@@ -8,13 +8,7 @@
 Estoy en mi ultimo año de carrera. Apasionado a la Ciencia de datos, modelos predictivos y Machine Learning. Me gusta la gente; sus historias, como piensan, como se emocionan. Por eso me gusta entenderla.
 
   ## 📩 Contactos
-
-<p align="left" >
-     <link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/app/ci.min.css"
-/>
-        <a href="https://www.linkedin.com/in/jesus-lagares/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
+  <a href="https://www.instagram.com/mati_toros/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/refs/heads/master/public/logos/social%20media/instagram/instagram.svg" width="40" height="40" alt="Nombre del Icono" />
     <a href="http://instagram.com/jesuslagares_" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059811-e9699771-f560-4217-b698-d64db9b4fe1c.png"  width="45"></a>
     <a href="https://twitter.com/jesuslagares_" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059786-980a496d-654e-4d81-add4-b490553bf34d.png"  width="45"></a>
       <a href="https://www.youtube.com/c/Jes%C3%BAsLagares" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059795-66f4370f-8697-42b5-bcb4-b83ebc10f721.png"  width="45"></a>
