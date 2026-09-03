@@ -7,20 +7,21 @@
 
 Estoy en mi ultimo año de carrera. Apasionado a la Ciencia de datos, modelos predictivos y Machine Learning. Me gusta la gente; sus historias, como piensan, como se emocionan. Por eso me gusta entenderla.
 
-  ## 📩 Contactos
-  <a href="https://www.instagram.com/mati_toros/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/refs/heads/master/public/logos/social%20media/instagram/instagram.svg" width="40" height="40" alt="Nombre del Icono" />
-</a>
+<div align="center">
 
+## 📩 Contactos
+
+<a href="https://www.instagram.com/mati_toros/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/refs/heads/master/public/logos/social%20media/instagram/instagram.svg" width="40" height="40" alt="Instagram" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/matias-toro-ulloa-ds/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/refs/heads/master/public/logos/social%20media/linkedin/linkedin.svg" width="40" height="40" alt="Nombre del Icono" />
+  <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/refs/heads/master/public/logos/social%20media/linkedin/linkedin.svg" width="40" height="40" alt="LinkedIn" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:matiasu.toro@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40" alt="Gmail" />
 </a>
 
-<a href="mailto:matiasu.toro@gmail.com" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="40" height="40" alt="Nombre del Icono" />
-</a>
-    
-</p>
+</div>
 
 ## 📋 Objetivos actuales
 - [ ] Conseguir práctica profesional en Data Science. 
