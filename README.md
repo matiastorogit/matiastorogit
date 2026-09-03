@@ -15,7 +15,7 @@ Estoy en mi ultimo año de carrera. Apasionado a la Ciencia de datos, modelos pr
 <a href="https://www.instagram.com/mati_toros/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/refs/heads/master/public/logos/social%20media/instagram/instagram.svg" width="40" height="40" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/matias-toro-ulloa-ds/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/refs/heads/master/public/logos/social%20media/linkedin/linkedin.svg" width="40" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:matiasu.toro@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40" alt="Gmail" /></a>
-<a href="mailto:matiasu.toro@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40" alt="Gmail" /></a>
+
 
 
 </div>
