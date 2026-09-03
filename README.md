@@ -1,7 +1,7 @@
 <img width="3780" height="1126" alt="bannergithub2" src="https://github.com/user-attachments/assets/d740a7bd-a1fe-46dd-ba2c-d947e1ecaa82" />
 
 <p align="center">
-  <a target="_blank" rel="noreferrer"><img src="[https://user-images.githubusercontent.com/48330849/172059498-bebfd793-1406-47e2-b1a4-bdee5a379823.jpg](https://github.com/user-attachments/assets/d740a7bd-a1fe-46dd-ba2c-d947e1ecaa82" alt="banner_matiastorogit"></a>
+  <a target="_blank" rel="noreferrer"><img src="[https://user-images.githubusercontent.com/48330849/172059498-bebfd793-1406-47e2-b1a4-bdee5a379823.jpg](https://github.com/user-attachments/assets/d740a7bd-a1fe-46dd-ba2c-d947e1ecaa82"></a>
 </p>
 <h2 align="center"> Estudiante de Ingeniería Civil Informática 💻. Me gusta leer 📖 </h2>
 
