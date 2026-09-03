@@ -3,9 +3,10 @@
 <p align="center">
   <a target="_blank" rel="noreferrer"><img src="[https://user-images.githubusercontent.com/48330849/172059498-bebfd793-1406-47e2-b1a4-bdee5a379823.jpg](https://github.com/user-attachments/assets/d740a7bd-a1fe-46dd-ba2c-d947e1ecaa82"></a>
 </p>
-<h2 align="center"> Estudiante de Ingeniería Civil Informática 💻. Me gusta leer 📖 </h2>
-
+<h2 align="center"> Estudiante de Ingeniería Civil Informática 💻 Me gusta leer 📖 </h2>
+<div align="center">
 Estoy en mi ultimo año de carrera. Apasionado a la Ciencia de datos, modelos predictivos y Machine Learning. Me gusta la gente; sus historias, como piensan, como se emocionan. Por eso me gusta entenderla.
+</div>
 
 <div align="center">
 
